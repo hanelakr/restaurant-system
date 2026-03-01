@@ -1,6 +1,6 @@
 ## Funcionalidades Implementadas
 
-- Login de usuário
+- Login e perfil de usuário
 - Cadastro de funcionários
 - Cadastro e gerenciamento de produtos
 
